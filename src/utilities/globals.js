@@ -1,6 +1,6 @@
-export const courseName = 'Programming for Artists';
+export const courseName = 'Game Workshop';
 
-export const googleDocsSyllabusEmbedLink = 'https://docs.google.com/document/d/e/2PACX-1vTubqKW1yEYQfZ1VHH4fs6wvDyCllRayjTZ4d7ik05z5wX13ea8YdI6lmT_ySP1G4IublPWdJbhuTvW/pub?embedded=true';
+export const googleDocsSyllabusEmbedLink = 'https://docs.google.com/document/d/e/2PACX-1vTlWqHrtYUuafjbNYq96E8_H6rmmkIW4oHjWRp4sEoIbCq-xGvmhPbMT5TAL-Z4sIfF57ZqAwgOOy4l/pub?embedded=true';
 
 export const tabs = {
   SYLLABUS: 'SYLLABUS',
@@ -8,9 +8,9 @@ export const tabs = {
   RESOURCES: 'RESOURCES',
 }
 
-export const marqueeText = 'TO MAKE A DADAIST POEM - Take a newspaper - Take some scissors - Choose from this paper an article of the length you want to make your poem - Cut out the article - Next carefully cut out each of the words that makes up this article and put them all in a bag - Shake gently - Next take out each cutting one after the other - Copy conscientiously in the order in which they left the bag - The poem will resemble you - And there you are—an infinitely original author of charming sensibility, even though unappreciated by the vulgar herd.'
+export const marqueeText = 'We know at the present time that all animals, beginning with the ants, going on to the birds, and ending with the highest mammals, are fond of plays, wrestling, running after each other, trying to capture each other, teasing each other, and so on. And while many plays are, so to speak, a school for the proper behavior of the young in mature life, there are others which, apart from their utilitarian purposes, are, together with dancing and singing, mere manifestations of an excess of forces—“the joy of life,” and a desire to communicate in some way or another with other individuals of the same or of other species—in short, a manifestation of sociability proper, which is a distinctive feature of all the animal world.'
 
-export const marqueeTextCredit = "Tristan Tzara 1920";
-export const logoCredit = 'test logo by stalgiag';
+export const marqueeTextCredit = "Peter Kropotkin, 'Mutual Aid: A Factor of Evolution";
+export const logoCredit = 'Tom Loveless';
 
 

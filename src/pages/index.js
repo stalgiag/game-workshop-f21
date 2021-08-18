@@ -1,6 +1,6 @@
 import React from 'react';
 import Nav from '../components/Nav';
-import Logo from '../components/Logo';
+import VideoLogo from '../components/VideoLogo';
 import Marquee from '../components/Marquee';
 import Footer from '../components/Footer';
 import '../styles/main.scss';
@@ -29,7 +29,7 @@ class Home extends React.Component{
       <>
         <header>
           <Nav activeTab={this.state.activeTab} onChange={this.updateFocus}/>
-          <Logo />
+          <VideoLogo />
         </header>
         <Body section={this.state.activeTab} />
         <Marquee />

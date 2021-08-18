@@ -1,6 +1,6 @@
 import React from 'react';
 
-import MyVideo from '../../static/myvideofile.mp4'
+import MyVideo from '../../static/logo.mp4'
 
 export default function Logo() {
   return (

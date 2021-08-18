@@ -30,5 +30,5 @@ module.exports = {
       implementation: require("sass"),
     }
   ],
-  pathPrefix: '/class-site',
+  pathPrefix: '/game-workshop-f21',
 };
