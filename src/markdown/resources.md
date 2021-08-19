@@ -2,43 +2,79 @@
 category: "RESOURCES"
 ---
 
-# p5.js
+# Unity
 
-- [p5js.org](http://p5js.org/) - p5.js website, includes library, reference, examples, and tutorials
-- [Getting Started with p5.js](http://people.uncw.edu/tompkinsj/112/JavaScript/GettingStartedwithP5js.pdf)
-- [p5 Learn](https://p5js.org/learn/)
-- [p5.js forum](https://forum.processing.org/two/) - ask strangers for help :-D
-- [Daniel Shiffman's Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) - video tutorials
-- [Allison Parish's Creative Coding Tutorials](https://creative-coding.decontextualize.com/)
-- [p5 Cheat Sheet](https://bmoren.github.io/p5js-cheat-sheet/)
-- [Intro to programming for the visual arts with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info) - online class from kadenze, free with sign up
-- [CozyCoding with Aren Davey](https://www.twitch.tv/cozycoding)
+- [Unity](https://unity.com/)
 
 ***
 
-# Editor
-- [The p5.js Online Editor](https://editor.p5js.org/)
-- [Editor Tutorial](https://www.youtube.com/watch?v=MXs1cOlidWs)
+# Unity Tutorials
+**pay close attention to the version in use, it should be as close to 2020 as possible**
 
-***
+- [Unity Learn](https://learn.unity.com/)
+- [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
+- [Sykoo](https://www.youtube.com/user/SykooTV)
+- [Blackthornprod](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g)
+- [SpeedTutor](https://www.youtube.com/user/SpeedTutor)
 
-# Javascript
 
-- [Codecademy: JavaScript](https://www.codecademy.com/learn/javascript)
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+*** 
 
-***
+# Game Dev Related
+- [Sebastian Lague](https://www.youtube.com/user/Cercopithecan)
+- [GameDevHQ](https://www.youtube.com/user/Unity3DCoder)
+- [Gamesutra](https://www.gamasutra.com/)
+- [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
 
-# Are.na
+*** 
 
-- [Getting started with Are.na](https://www.are.na/getting-started)
-- [Video Tutorial](https://support.are.na/help/can-i-watch-a-tutorial-3b49c282)
+# 3D Modeling, Textures, and Assets
+- [Blender](https://www.blender.org/)
+- [Meshmixer](https://www.meshmixer.com/)
+- [Substance Painter](https://www.substance3d.com/)
+- [DeepPBR](https://www.deeppbr.io/)
+- [NormalMapOnline](https://cpetry.github.io/NormalMap-Online/)
+- [Polyhaven](https://polyhaven.com/)
+- [Sketchfab](https://sketchfab.com/feed)
+- [UCLA Mesh Creator](https://assetstore.unity.com/packages/tools/sprite-management/ucla-mesh-creator-11066)
+- [Mixamo](https://www.mixamo.com/#/)
+
+*** 
+
+# 2D Art
+- [Piskel](https://www.piskelapp.com/)
+- [Pixelorama](https://orama-interactive.itch.io/pixelorama)
+- [Glyph Generator](https://madequa.itch.io/glyph-generator)
+
+*** 
+
+# Sounds
+- [Freesound.org](http://www.freesound.org/)
+- [Chiptone](https://sfbgames.itch.io/chiptone)
+- [GB SFX Generator](https://patchworkgames.itch.io/gbsfx)
+- [Beepbox](https://www.beepbox.co/)
+- [FamiStudio](https://bleubleu.itch.io/famistudio)
+
+*** 
+
+# C# in Unity
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Unity Scripting Reference](https://docs.unity3d.com/ScriptReference/)
+- [Learning C# in Unity for Beginners](https://unity3d.com/learning-c-sharp-in-unity-for-beginners)
+- [How to Program in C#](https://www.youtube.com/watch?v=jGD0vn-QIkg)
+- [C# Scripting for Unity in 15 minutes](https://www.youtube.com/watch?v=9tMvzrqBUP8)
+
+*** 
+
+# Misc.
+- [Anna Anthropy's World of Fonts](https://w.itch.io/world-of-fonts) (game fonts)
+- [Coolors](https://coolors.co/) (palette generation)
+- [Unilist](https://unilist.raphaelbastide.com/#) (unicode icons)
+- [Everest Pipkin tool list](https://github.com/everestpipkin/tools-list) (extensive list of tools; source for many of these)
 
 *** 
 
 # Inspiration
-- [Creative Applications](http://creativeapplications.net/)
-- [OpenProcessing](http://openprocessing.org/)
-- [Artists featured in Form+Code](http://formandcode.com/links)
-- [Net Art Anthology by Rhizome](https://anthology.rhizome.org/)
+- [Killscreen](https://killscreen.com/)
+- [Gamescenes](https://www.gamescenes.org/)
 - [21st Century Digital Art](http://www.digiart21.org/)
